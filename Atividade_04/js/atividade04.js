@@ -3,7 +3,7 @@ let notas = [];
 
 // Declarando as notas
 for (let i = 0; i < 3; i++) {
-    let nota = parseFloat(prompt(`Digite a nota ${i + 1}:`));
+    let nota = parseFloat(prompt(`Digite a nota"SS ${i + 1}:`));
     notas.push(nota);
   }
 
