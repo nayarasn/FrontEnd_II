@@ -19,7 +19,7 @@ for(let i = 0; i <= 3 ; i++){
 
 let maior_altura = -1;
 let nome_maior_altura = "";
-let menor_altura = float("inf");
+let menor_altura = Infinity;
 let nome_menor_altura = "";
 
 for(let i = 0; i <= 3 ; i++){
